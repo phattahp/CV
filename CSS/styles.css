@@ -1,0 +1,30 @@
+body {
+  background-color: #2b2726;
+  color: #5dc0a6;
+  font-family: monospace;
+  font-size: 14px;
+  line-height:2;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+h1:hover {
+  color:#f77754;
+  text-align: center;
+}
+
+h2 {
+  color:#f77754;
+}
+
+hr {
+  border-color:#913535;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:5px;
+  width: 50%;
+}
+้
